@@ -8,4 +8,4 @@ Sometimes I develop Java-Swing application.
 <img alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>  <img alt="vba" src="https://img.shields.io/badge/vba-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
 
 ## My Github Stats
-![Tublanx's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tublanx&show_icons=true&theme=radical)
+![Tublanx's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tublanx&show_icons=true&theme=jolly)
