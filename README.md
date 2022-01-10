@@ -16,4 +16,4 @@ Sometimes I develop Java-Swing application.
 
 ## My Baekjoon Stats
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj=rlgus0823)](https://solved.ac/rlgus0823)
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=rlgus0823)](https://solved.ac/rlgus0823)
