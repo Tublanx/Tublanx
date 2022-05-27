@@ -1,12 +1,17 @@
-✋ Hi there! I'm backend developer using Java Spring.
+# Hello World! 🤚
 
-Sometimes I develop Java-Swing application.
+## 🚀 About me 
+🏫 I'm attending Incheon Electronic Meister High School. The department is electronic control, and it develops the IoT and embedded systems.
+Club activities include developing desktop applications using Java Swing and MySQL, and developing macros using VBA.
 
-✋ 안녕하세요! 저는 자바 Spring을 이용하여 백엔드 개발을 하고 있습니다.
+🖥️ I enjoy developing the backend using <b>Spring Boot</b>. In 2020, I learned <b>C language</b>. In 2021, I leanred <b>Java</b>, and I studied <b>HTML5, CSS, JavaScript, React.js, Next.js</b> personally. In 2022 till now, I learned <b>Spring Boot</b>, PHP. I also started [blogging activities](https://studydeveloper.tistory.com/) and[ solving Algorithm](https://www.acmicpc.net/user/rlgus0823).
 
-때때로 자바 스윙을 이용한 데스크탑 애플리케이션 개발도 합니다.
+💪 I love exercising as well. Sometimes I exercise if i have a hard time developing something or if it doesn't work out well. Through these activities, I kept my body healthy.
 
-## My Skill
-<img alt="HTML5" src ="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>  <img alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>  <img alt="javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+## 🏆 Achievements
++ 🥇 June 2020, I won the best prize in the ICT Competition.
++ 🥈 April 2022, I won a silver medal in the Local Skill Competition
 
-<img alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>  <img alt="vba" src="https://img.shields.io/badge/vba-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/><img alt="spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+## 📝 License 
++ 📄 June 2020, I obtained ITQ (Hangul, Excel)
++ 🖥️ Mars 2022, I obtained Information Processing Technician
