@@ -10,7 +10,10 @@ Club activities include developing desktop applications using Java Swing and MyS
 
 ## 🏆 Achievements
 + 🥇 June 2020, I won the best prize in the ICT Competition.
-+ 🥈 April 2022, I won a silver medal in the Local Skill Competition
++ 🥈 April 2022, I won a silver medal in the Local Skill Competition.
+
+## 📜 Certificate Of Award
++ 2021 ~ 2022, I worked as an instructor and obtained a letter of appointment.
 
 ## 📝 License 
 + 📄 June 2020, I obtained ITQ (Hangul, Excel)
