@@ -18,3 +18,4 @@ Club activities include developing desktop applications using Java Swing and MyS
 ## 📝 License 
 + 📄 June 2020, I obtained ITQ (Hangul, Excel)
 + 🖥️ Mars 2022, I obtained Information Processing Technician
++ 🖥️ August 2022, I obtained Information Processing Industry Engineer written test
