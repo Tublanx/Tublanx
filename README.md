@@ -1,21 +1,12 @@
-# Hello World! 🤚
+### 안녕하세요, 이기현입니다. (李基炫)
 
-## 🚀 About me 
-🏫 I'm attending Incheon Electronic Meister High School. The department is electronic control, and it develops the IoT and embedded systems.
-Club activities include developing desktop applications using Java Swing and MySQL, and developing macros using VBA.
+저는 한국주택금융공사에 다니고 있는 ICT 개발자입니다.
 
-🖥️ I enjoy developing the backend using <b>Spring Boot</b>. In 2020, I learned <b>C language</b>. In 2021, I leanred <b>Java</b>, and I studied <b>HTML5, CSS, JavaScript, React.js, Next.js</b> personally. In 2022 till now, I learned <b>Spring Boot</b>, PHP. I also started [blogging activities](https://studydeveloper.tistory.com/) and[ solving Algorithm](https://www.acmicpc.net/user/rlgus0823).
+<h3>· Most Used Language<br><br>
+<img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> 
+<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
+<img src="https://img.shields.io/badge/VBA-6DB33F?style=for-the-badge&logo=VBA&logoColor=white"> 
 
-💪 I love exercising as well. Sometimes I exercise if i have a hard time developing something or if it doesn't work out well. Through these activities, I kept my body healthy.
-
-## 🏆 Achievements
-+ 🥇 June 2020, I won the best prize in the ICT Competition.
-+ 🥈 April 2022, I won a silver medal in the Local Skill Competition.
-
-## 📜 Certificate Of Award
-+ 2021 ~ 2022, I worked as an instructor and obtained a letter of appointment.
-
-## 📝 License 
-+ 📄 June 2020, I obtained ITQ (Hangul, Excel)
-+ 🖥️ Mars 2022, I obtained Information Processing Technician
-+ 🖥️ August 2022, I obtained Information Processing Industry Engineer written test
+<h3>· Awards<br></h3>
+● 2022 지방기능경기대회 은메달 수상 🥈<br>
+● 2022 전국기능경기대회 동메달 수상 🥉
