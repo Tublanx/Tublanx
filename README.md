@@ -1,6 +1,6 @@
 ### 안녕하세요, 이기현입니다. (李基炫)
 
-저는 한국주택금융공사에 다니고 있는 ICT 개발자입니다.
+한국주택금융공사에 다니고 있는 ICT 개발자입니다.
 
 <h3>· Most Used Language<br><br>
 <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> 
