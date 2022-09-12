@@ -7,6 +7,10 @@
 <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
 <img src="https://img.shields.io/badge/VBA-6DB33F?style=for-the-badge&logo=VBA&logoColor=white"> 
 
+<h3>· Sub or Studying Language<br><br>
+<img src="https://img.shields.io/badge/MatLab-white?style=for-the-badge&logo=MatLab&logoColor=white"> 
+<img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
+
 <h3>· Awards<br></h3>
 ● 2022 지방기능경기대회 은메달 수상 🥈<br>
 ● 2022 전국기능경기대회 동메달 수상 🥉
