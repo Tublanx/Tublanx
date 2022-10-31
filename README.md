@@ -8,10 +8,10 @@
 <img alt="excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
 
 <h3>· Sub or Studying Language<br><br>
-<img alt="matlab" src="https://img.shields.io/badge/MatLab-white?style=for-the-badge&logo=MatLab&logoColor=white"/> 
 <img alt="go" src="https://img.shields.io/badge/go-3776AB.svg?&style=for-the-badge&logo=go&logoColor=white"/>
 <img alt="postgresql" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img alt="markdown" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/>
+<img alt="matlab" src="https://img.shields.io/badge/MatLab-white?style=for-the-badge&logo=MatLab&logoColor=white"/> 
   
 <h3>· Most Used IDE<br><br>
 <img alt="eclipse" src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white"/>
