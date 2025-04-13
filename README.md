@@ -2,12 +2,12 @@
 
 한국주택금융공사에 다니고 있는 ICT 개발자입니다.
 
-<h3>· Most Used Language<br><br>
+<h3>· 가장 많이 사용하는 언어<br><br>
 <img alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
 <img alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/> 
 <img alt="excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
 
-<h3>· Awards<br></h3>
+<h3>· 수상 이력<br></h3>
 ● 2022 지방기능경기대회 은메달 수상 🥈<br>
 ● 2022 전국기능경기대회 동메달 수상 🥉
 
