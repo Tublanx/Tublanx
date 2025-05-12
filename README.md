@@ -37,7 +37,7 @@
 ## 📬 Contact
 - ✉️ Email: rlgus03453@naver.com
 - 🌐 Blog: https://studydeveloper.tistory.com/
-- 📸 Instagram : https://www.instagram.com/igi5935
+- 📸 Instagram : https://www.instagram.com/gihyeoon_5935
 
 ---
 
