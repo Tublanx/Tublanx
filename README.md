@@ -43,9 +43,9 @@
 
 ## 📈 GitHub 활동
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tublanx&show_icons=true&theme=calm)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gihyeoon&show_icons=true&theme=calm)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tublanx&layout=compact&theme=calm)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gihyeoon&layout=compact&theme=calm)
 
 ---
  
